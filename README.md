@@ -26,7 +26,7 @@ This project lays way to long on my hard drive. I sporadically code on this proj
 * live preview of edges
   * convert a QVideoFrame to a cv::Mat
   * run edge detection in own thread
-* improve filters and/ro make them more customizable
+* improve filters and/or make them more customizable
 
 ## Contact
 
