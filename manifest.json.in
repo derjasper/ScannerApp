@@ -1,0 +1,16 @@
+{
+    "name": "scannerapp.derjasper",
+    "description": "Scan your documents",
+    "architecture": "@CLICK_ARCH@",
+    "title": "ScannerApp",
+    "hooks": {
+        "ScannerApp": {
+            "apparmor": "ScannerApp/ScannerApp.apparmor",
+            "desktop": "ScannerApp/ScannerApp.desktop",
+            "content-hub": "ScannerApp/content-hub.json"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Jasper Nalbach <jasper@bluetreehouse.de>",
+    "framework": "ubuntu-sdk-15.04.3"
+}

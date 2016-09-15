@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ScannerApp
+Exec=qmlscene $@ ScannerApp/Main.qml
+Icon=ScannerApp/ScannerApp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-27 22:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:6
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:7
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/MainPage.qml:23
+msgid "About"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:7
+msgid "Licenses"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:53
+msgid "Document Scanner for Ubuntu Touch"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:60
+msgid ""
+"For bug reports, pull requests and information on how to translate, please "
+"go to the GitHub project."
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:66
+msgid "Scanner on GitHub"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:75
+msgid "I would appreciate a donation if you like this app."
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:81
+msgid "Donate via PayPal"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/AboutPage.qml:90
+msgid "Licensed under GPLv3. Source code available at:"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/MainPage.qml:7
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/ScanPage.qml:10
+msgid "Scanner"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/MainPage.qml:12
+msgid "Import"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/MainPage.qml:34
+msgid "Click here to start scanning"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/ResultPage.qml:13
+msgid "Result"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/ResultPage.qml:18
+msgid "Save"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/ResultPage.qml:122
+msgid "no filter"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/ResultPage.qml:129
+msgid "text only"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/ResultPage.qml:136
+msgid "photo and text"
+msgstr ""
+
+#: /home/jasper/Dokumente/Projekte/UbuntuApps/ScannerApp/ScannerApp/ScannerApp/ResultPage.qml:143
+msgid "photo only"
+msgstr ""
