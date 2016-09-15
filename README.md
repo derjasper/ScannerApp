@@ -21,11 +21,11 @@ This project lays way to long on my hard drive. I sporadically code on this proj
 ## To be done
 
 * get it to work with the new container-based Ubuntu SDK (and link open-cv statically or include it in the click package)
-** Qt 5.5 is needed for QVideoFilter, which is not available in the container, so you may set up a desktop kit for development
+  * Qt 5.5 is needed for QVideoFilter, which is not available in the container, so you may set up a desktop kit for development
 * content hub integration
 * live preview of edges
-** convert a QVideoFrame to a cv::Mat
-** run edge detection in own thread
+  * convert a QVideoFrame to a cv::Mat
+  * run edge detection in own thread
 
 ## Contact
 
